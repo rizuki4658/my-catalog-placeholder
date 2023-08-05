@@ -303,5 +303,6 @@
     "is_enable_facebook_pixel": 1,
     "facebook_pixel_code": "336322765389858",
     "sellcell_code": ""
-  }
+  },
+  "test": {}
 }
